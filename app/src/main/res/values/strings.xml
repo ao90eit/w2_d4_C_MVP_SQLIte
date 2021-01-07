@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">w2_d4_C_MVP_SQLIte</string>
+    <string name="delete_command">DELETE FROM %s WHERE %s = %d</string>
+</resources>
